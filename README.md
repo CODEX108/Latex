@@ -173,7 +173,7 @@ Here changing the paper size to **a5** from **a4** reduces the width od every li
 
 
 <br>
-<b><i>Note:All the content and examples are taken from the following references:  <i><b><br>
+<b><i>Note : All the content and examples are taken from the following references:  <i><b><br>
  <ul>
   <li> <a href = "https://www.latex-project.org/" >Official Latex Documentation</a><br></li>
 <li> <a href = "https://www.youtube.com/watch?v=fCzF5gDy60g&t=2113s">Academic Lesson's Youtube Channel</a><br></li>
