@@ -59,6 +59,17 @@ Create a simlpe doacument using Latex
 - A .log ifile is created after the execution of this command
 - To read the pdf file ```skim hello.pdf``` command is used
 
+**IMPORTING FILES**
+<br>
+The standard tool to insert a latex file into another are \input and \include<a href = "https://sharelatex.psi.ch/learn/Management_in_a_large_project#Reference_guide">   (see the reference guide)</a>, but these are prone to errors if nested file importing is needed. For this reason the recommended option is the package import .
+
+
+```
+\chapter{First chapter}
+\import{sections/}{section1-1.tex}
+\import{sections/}{section1-2.tex}
+```
+
 <h1>Letter Writing in Latex </h1>
 This is a letter sample created using Latex
 
@@ -158,8 +169,6 @@ Here changing the paper size to **a5** from **a4** reduces the width od every li
 <h5>Download the resultant output: </h5>
 
 [report.pdf](https://github.com/CODEX108/Blogs/files/9300518/report.pdf)
-
-
 
 
 <br>
