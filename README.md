@@ -58,6 +58,7 @@ Create a simlpe doacument using Latex
 - Compile the file using ```pdf latex hello.tex``` or using  ```pdf latex hello``` here it will bydefault add the extention
 - A .log ifile is created after the execution of this command
 - To read the pdf file ```skim hello.pdf``` command is used
+<hr>
 
 **IMPORTING FILES**
 <br>
